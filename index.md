@@ -1,4 +1,4 @@
 ---
-layout: page
-title: "Vinura (Dhananjaya) Galwaduge"
+layout: default
+title: Vinura (Dhananjaya) Galwaduge
 ---

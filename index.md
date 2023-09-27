@@ -1,5 +1,4 @@
 ---
-layout: page
-title: "Vinura (Dhananjaya) Galwaduge"
-twitter_username:VinuraD13
+layout: default
+title: Vinura (Dhananjaya) Galwaduge
 ---
